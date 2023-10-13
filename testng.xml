@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="methods">
+    <classes>
+      <class name="Cucumber_approach.Simple_API_Methods"/>
+      <class name="API_Testcases.TC001_GET_Request"/>
+      <class name="API_Testcases.TC005_GET_Request_Json_Response_Body"/>
+      <class name="com.project_one.test.TC002_Employeeapi_GET_One_Employee_Detail"/>
+      <class name="API_Testcases.TC006_Get_Request_Json_Response_all_the_value"/>
+      <class name="Cucumber_approach.DifferentReq_Body"/>
+      <class name="datadriventesting.TC001_Data_Driven_Test_Post_new_Employees"/>
+      <class name="com.project_one.test.TC003_Employeeapi_Create_data_in_database"/>
+      <class name="API_Testcases.TC007_Get_Request_Autherization"/>
+      <class name="API_Testcases.TC004_GET_Request_Printing_all_headers"/>
+      <class name="API_Testcases.TC003_GET_Request"/>
+      <class name="API_Testcases.TC002_Post_Request"/>
+      <class name="com.project_one.test.TC001_Employeeapi_GET_All_Employees"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

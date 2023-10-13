@@ -1,0 +1,101 @@
+2023-06-27 10:38:02 INFO  TestBase:18 - -------------- Started TC001 GET all Emmployees data------------
+2023-06-27 10:38:08 INFO  TestBase:81 - Content Encodinggzip
+2023-06-27 10:38:08 INFO  TestBase:97 - ---------------Checking Cookies-----------
+2023-06-27 10:38:08 INFO  TestBase:36 - ----------------Checking status code---------------
+2023-06-27 10:38:08 INFO  TestBase:38 - Status code==>404
+2023-06-27 10:38:08 INFO  TestBase:64 - ------------------Checking Content-Type---------------
+2023-06-27 10:38:08 INFO  TestBase:66 - Content type is==>application/json
+2023-06-27 10:38:08 INFO  TestBase:88 - content length is==>96
+2023-06-27 10:38:08 WARN  TestBase:91 - content length is less than 100
+2023-06-27 10:38:08 INFO  TestBase:44 - ----------------checking response time---------------
+2023-06-27 10:38:08 WARN  TestBase:47 - response time is greater than 2000
+2023-06-27 10:38:08 INFO  TestBase:72 - ------------------server type--------------
+2023-06-27 10:38:08 INFO  TestBase:74 - Server Type is==>nginx/1.21.6
+2023-06-27 10:38:08 INFO  TestBase:55 - ------------------Checking statusLine---------------
+2023-06-27 10:38:08 INFO  TestBase:57 - Status Line is==>HTTP/1.1 404 Not Found
+2023-06-27 10:38:08 INFO  TestBase:28 - ---------------checking response body--------------
+2023-06-27 10:38:08 INFO  TestBase:30 - Response Body==>{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2023-06-27 10:38:08 INFO  TestBase:106 - -----------Finish TC001_GET_ALL_Employe--------------
+2023-06-27 18:50:15 INFO  TestBase:18 - -------------- Started TC001 GET all Emmployees data------------
+2023-06-27 18:50:44 INFO  TestBase:18 - -------------- Started TC001 GET all Emmployees data------------
+2023-06-27 18:50:52 INFO  TestBase:81 - Content Encodinggzip
+2023-06-27 18:50:52 INFO  TestBase:97 - ---------------Checking Cookies-----------
+2023-06-27 18:50:52 INFO  TestBase:36 - ----------------Checking status code---------------
+2023-06-27 18:50:52 INFO  TestBase:38 - Status code==>404
+2023-06-27 18:50:52 INFO  TestBase:64 - ------------------Checking Content-Type---------------
+2023-06-27 18:50:52 INFO  TestBase:66 - Content type is==>application/json
+2023-06-27 18:50:52 INFO  TestBase:88 - content length is==>96
+2023-06-27 18:50:52 WARN  TestBase:91 - content length is less than 100
+2023-06-27 18:50:52 INFO  TestBase:44 - ----------------checking response time---------------
+2023-06-27 18:50:52 WARN  TestBase:47 - response time is greater than 2000
+2023-06-27 18:50:52 INFO  TestBase:72 - ------------------server type--------------
+2023-06-27 18:50:52 INFO  TestBase:74 - Server Type is==>nginx/1.21.6
+2023-06-27 18:50:52 INFO  TestBase:55 - ------------------Checking statusLine---------------
+2023-06-27 18:50:52 INFO  TestBase:57 - Status Line is==>HTTP/1.1 404 Not Found
+2023-06-27 18:50:52 INFO  TestBase:28 - ---------------checking response body--------------
+2023-06-27 18:50:52 INFO  TestBase:30 - Response Body==>{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2023-06-27 18:50:52 INFO  TestBase:106 - -----------Finish TC001_GET_ALL_Employe--------------
+2023-06-27 22:44:27 INFO  TestBase:25 - ------------Started TC002_Get_Single_Employee_record------------------
+2023-06-27 22:45:42 INFO  TestBase:25 - ------------Started TC002_Get_Single_Employee_record------------------
+2023-06-27 23:31:45 INFO  TestBase:25 - ------------------TC003 Create data in database--------------
+2023-06-27 23:35:12 INFO  TestBase:25 - ------------------TC003 Create data in database--------------
+2023-06-28 13:03:02 INFO  TestBase:25 - ------------------TC003 Create data in database--------------
+2023-09-27 22:39:06 INFO  TestBase:25 - ------------Started TC002_Get_Single_Employee_record------------------
+2023-09-27 22:39:12 INFO  TestBase:25 - ------------------TC003 Create data in database--------------
+2023-09-27 22:39:17 INFO  TestBase:18 - -------------- Started TC001 GET all Emmployees data------------
+2023-09-27 22:39:18 INFO  TestBase:81 - Content Encodinggzip
+2023-09-27 22:39:18 INFO  TestBase:97 - ---------------Checking Cookies-----------
+2023-09-27 22:39:18 INFO  TestBase:36 - ----------------Checking status code---------------
+2023-09-27 22:39:18 INFO  TestBase:38 - Status code==>404
+2023-09-27 22:39:18 INFO  TestBase:64 - ------------------Checking Content-Type---------------
+2023-09-27 22:39:18 INFO  TestBase:66 - Content type is==>application/json
+2023-09-27 22:39:19 INFO  TestBase:88 - content length is==>96
+2023-09-27 22:39:19 WARN  TestBase:91 - content length is less than 100
+2023-09-27 22:39:19 INFO  TestBase:44 - ----------------checking response time---------------
+2023-09-27 22:39:19 INFO  TestBase:72 - ------------------server type--------------
+2023-09-27 22:39:19 INFO  TestBase:74 - Server Type is==>nginx/1.21.6
+2023-09-27 22:39:19 INFO  TestBase:55 - ------------------Checking statusLine---------------
+2023-09-27 22:39:19 INFO  TestBase:57 - Status Line is==>HTTP/1.1 404 Not Found
+2023-09-27 22:39:19 INFO  TestBase:28 - ---------------checking response body--------------
+2023-09-27 22:39:19 INFO  TestBase:30 - Response Body==>{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2023-09-27 22:39:19 INFO  TestBase:106 - -----------Finish TC001_GET_ALL_Employe--------------
+2023-09-27 22:40:05 INFO  TestBase:18 - -------------- Started TC001 GET all Emmployees data------------
+2023-09-27 22:40:05 INFO  TestBase:25 - ------------Started TC002_Get_Single_Employee_record------------------
+2023-09-27 22:40:05 INFO  TestBase:25 - ------------------TC003 Create data in database--------------
+2023-09-27 22:40:09 INFO  TestBase:97 - ---------------Checking Cookies-----------
+2023-09-27 22:40:09 INFO  TestBase:81 - Content Encodinggzip
+2023-09-27 22:40:09 INFO  TestBase:36 - ----------------Checking status code---------------
+2023-09-27 22:40:09 INFO  TestBase:38 - Status code==>404
+2023-09-27 22:40:09 INFO  TestBase:64 - ------------------Checking Content-Type---------------
+2023-09-27 22:40:09 INFO  TestBase:66 - Content type is==>application/json
+2023-09-27 22:40:09 INFO  TestBase:88 - content length is==>96
+2023-09-27 22:40:09 WARN  TestBase:91 - content length is less than 100
+2023-09-27 22:40:09 INFO  TestBase:44 - ----------------checking response time---------------
+2023-09-27 22:40:09 WARN  TestBase:47 - response time is greater than 2000
+2023-09-27 22:40:09 INFO  TestBase:72 - ------------------server type--------------
+2023-09-27 22:40:09 INFO  TestBase:74 - Server Type is==>nginx/1.21.6
+2023-09-27 22:40:12 INFO  TestBase:55 - ------------------Checking statusLine---------------
+2023-09-27 22:40:12 INFO  TestBase:57 - Status Line is==>HTTP/1.1 404 Not Found
+2023-09-27 22:40:12 INFO  TestBase:28 - ---------------checking response body--------------
+2023-09-27 22:40:12 INFO  TestBase:30 - Response Body==>{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2023-09-27 22:40:13 INFO  TestBase:106 - -----------Finish TC001_GET_ALL_Employe--------------
+2023-09-27 22:40:38 INFO  TestBase:25 - ------------Started TC002_Get_Single_Employee_record------------------
+2023-09-27 22:40:38 INFO  TestBase:25 - ------------------TC003 Create data in database--------------
+2023-09-27 22:40:38 INFO  TestBase:18 - -------------- Started TC001 GET all Emmployees data------------
+2023-09-27 22:40:42 INFO  TestBase:97 - ---------------Checking Cookies-----------
+2023-09-27 22:40:42 INFO  TestBase:81 - Content Encodinggzip
+2023-09-27 22:40:42 INFO  TestBase:36 - ----------------Checking status code---------------
+2023-09-27 22:40:42 INFO  TestBase:38 - Status code==>404
+2023-09-27 22:40:42 INFO  TestBase:64 - ------------------Checking Content-Type---------------
+2023-09-27 22:40:42 INFO  TestBase:66 - Content type is==>application/json
+2023-09-27 22:40:42 INFO  TestBase:88 - content length is==>96
+2023-09-27 22:40:42 WARN  TestBase:91 - content length is less than 100
+2023-09-27 22:40:42 INFO  TestBase:44 - ----------------checking response time---------------
+2023-09-27 22:40:42 WARN  TestBase:47 - response time is greater than 2000
+2023-09-27 22:40:42 INFO  TestBase:72 - ------------------server type--------------
+2023-09-27 22:40:42 INFO  TestBase:74 - Server Type is==>nginx/1.21.6
+2023-09-27 22:40:45 INFO  TestBase:55 - ------------------Checking statusLine---------------
+2023-09-27 22:40:45 INFO  TestBase:57 - Status Line is==>HTTP/1.1 404 Not Found
+2023-09-27 22:40:45 INFO  TestBase:28 - ---------------checking response body--------------
+2023-09-27 22:40:45 INFO  TestBase:30 - Response Body==>{"message":"Error Occured! Page Not found, contact rstapi2example@gmail.com"}
+2023-09-27 22:40:45 INFO  TestBase:106 - -----------Finish TC001_GET_ALL_Employe--------------
